@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    function:
+      definition: lambdaExample # 함수 이름
+    main:
+      banner-mode: off
+logging:
+  level:
+    root: info
