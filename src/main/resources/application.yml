@@ -1,7 +1,7 @@
 spring:
   cloud:
     function:
-      definition: lambdaExample # 함수 이름
+      definition: getId
     main:
       banner-mode: off
 logging:
